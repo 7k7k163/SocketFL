@@ -1,0 +1,16 @@
+class FLServer(object):
+
+    def new_model(self):
+        ...
+
+    def model_eval(self):
+        ...
+
+    def model_aggregate(self):
+        ...
+
+    def local_update(self, model):
+        ...
+
+    def get_model(self):
+        ...
